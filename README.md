@@ -1,6 +1,6 @@
 # Ecommerce
 
-HTML/CSS Javascript
+HTML/CSS and Javascript
 
 Fully Responsive website with product page/ single page/ cart and more
 
